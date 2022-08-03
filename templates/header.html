@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>MBTITUBE</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta property="og:title" content="MBTITUBE"/>
+    <meta property="og:description" content="-당신과 같은 MBTI가 추천하는 영상을 감상해보세요!-"/>
+    <meta property="og:image"
+          content="https://img.freepik.com/free-vector/vector-night-illustration-forest-with-cescent-moon-stars_104785-333.jpg"/>
+
+    <link rel="stylesheet" href="/static/header.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&display=swap" rel="stylesheet">
+    <script>
+        function logout() {
+            $.removeCookie('mytoken', {path: '/post'});
+            alert('로그아웃!')
+            window.location.href = '/';
+        }
+    </script>
+</head>
+
+<body>
+<div class="header_wrap">
+    <div class="logo" onclick="location.href='/post'"><img src="../static/mbti.png" width="150" , height="50"></div>
+    <div class="top5">
+        <div class="top5_title"># 등록 순위 #</div>
+        <div class="top5_list"></div>
+    </div>
+    <span>
+            <span class="name">{{ user_info.nick_name }} 님</span>
+            <button class="logout" onclick="logout()">로그아웃</button>
+    </span>
+</div>
+</body>
+</html>
