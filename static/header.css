@@ -1,0 +1,45 @@
+ * {font-family: 'Jua', sans-serif;
+    font-weight: normal;}
+
+
+
+body {
+    background: linear-gradient(#e7dfea, #d6ece3, #d9eaf0, #f9eed7);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+}
+
+.header_wrap {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    justify-content: space-between;
+    background-color: #fbe300;
+}
+
+.logo {
+    padding: 10px 0 0 20px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.logout {
+    margin: 10px 20px 10px 0;
+    border: none;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    color: darkslateblue;
+    font-weight: bolder;
+}
+.name {
+    margin-right : 20px;
+}
+
+.logout:hover {
+    cursor: pointer;
+    color: #de2f2f;
+    font-weight: bolder;
+}
