@@ -1,0 +1,15 @@
+.likes {
+    width: 500px;
+    height: 100px;
+    background-color: #86989B;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+span > i {
+    margin-left: 30px;
+    color: #9C1A1C;
+    font-size: 30px;
+}
