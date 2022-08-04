@@ -3,5 +3,5 @@
 
 ## MBTItube
 
-<p align="center">(img src="https://github.com/s2hlimi/mbtitube/blob/main/capture/1login.gif?raw=true")</p>
-![enter image description here](https://github.com/s2hlimi/mbtitube/blob/main/capture/1login.jpg?raw=true)
+<p align="center"><img src="https://github.com/s2hlimi/mbtitube/blob/main/capture/1login.gif?raw=true"></p>
+<p align="center"><img src="https://github.com/s2hlimi/mbtitube/blob/main/capture/1login.jpg?raw=true"></p>
