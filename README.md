@@ -1,7 +1,7 @@
 # MBTItube (12조)
 ![enter image description here](https://github.com/s2hlimi/mbtitube/blob/main/static/mbti.png?raw=true)
 
-## 프로젝트
+## 프로젝트 소개
 
 <p align="center"><img src="https://github.com/s2hlimi/mbtitube/blob/main/capture/1login.gif?raw=true"></p>
 <p align="center"><img src="https://github.com/s2hlimi/mbtitube/blob/main/capture/1login.jpg?raw=true"></p>
