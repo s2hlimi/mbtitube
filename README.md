@@ -35,7 +35,7 @@
 
 
 ## 🟧시연영상
-[link](http://www.google.co.kr)
+[https://youtu.be/zKJuj3WpUKI](https://youtu.be/zKJuj3WpUKI)
 
 ## 🟥프로젝트 초안
 [https://seulbin0207.tistory.com/6](https://seulbin0207.tistory.com/6)
