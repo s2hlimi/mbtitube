@@ -36,7 +36,7 @@
 [link](http://www.google.co.kr)
 
 ## 🟥프로젝트 초안
-[link](https://seulbin0207.tistory.com/6)https://seulbin0207.tistory.com/6
+[https://seulbin0207.tistory.com/6](https://seulbin0207.tistory.com/6)
 
 ## 💖팀원
  - 고슬빈
