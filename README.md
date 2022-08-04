@@ -10,8 +10,8 @@
 <p align="center">MBTI유형에 따른 공유한 영상을 모아서 볼 수 있는 플랫폼입니다.</p>
 <br>
 
-## 🟦프로젝트 기간🟨🟧🟥
-<p align="center">**2022.08.01 ~ 2022.08.04**</p>
+## 🟦프로젝트 기간🟨
+**<p align="center">2022.08.01 ~ 2022.08.04</p>**
 
 ## 🟩구현기능
  - 로그인
@@ -23,7 +23,7 @@
  - 키워드 순위목록
  - 키워드 분류
 
-## 🟨구현 기능
+## 🟨기술스택
 <div align=center>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -31,3 +31,16 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></div>
+
+## 🟧시연영상
+[link](http://www.google.co.kr)
+
+## 🟥프로젝트 초안
+[link](http://www.google.co.kr)
+
+## 💖팀원
+ - 고슬빈
+ - 강정아
+ - 강승민
+ - 심헤림
+ - 엄주영
