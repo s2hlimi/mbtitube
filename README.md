@@ -10,7 +10,7 @@
 <p align="center">MBTI유형에 따른 공유한 영상을 모아서 볼 수 있는 플랫폼입니다.</p>
 <br>
 
-## 🟦프로젝트 기간🟨
+## 🟦프로젝트 기간
 **<p align="center">2022.08.01 ~ 2022.08.04</p>**
 
 ## 🟩구현기능
@@ -36,7 +36,7 @@
 [link](http://www.google.co.kr)
 
 ## 🟥프로젝트 초안
-[link:https://seulbin0207.tistory.com/6](https://seulbin0207.tistory.com/6)
+[link](https://seulbin0207.tistory.com/6)https://seulbin0207.tistory.com/6
 
 ## 💖팀원
  - 고슬빈
